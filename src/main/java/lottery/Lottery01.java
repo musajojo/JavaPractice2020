@@ -1,10 +1,6 @@
 package lottery;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 
 public class Lottery01 {
 
